@@ -78,5 +78,5 @@ npm start
 <!-- Task Lists -->
 * [x] task 1
 * [x] task 2
-* [x] task 3
+* [ ] task 3
 
